@@ -8,7 +8,7 @@ La prueba consiste en realizar una mini aplicación web con los siguientes compo
 
 Requisitos:
 - Montar la app web con [REACT](https://reactjs.org/).
-- Recomendamos utilizar[material UI](https://material-ui.com/).
+- Recomendamos utilizar [material UI](https://material-ui.com/).
 
 - La app web debe tener los siguientes componentes:
   - 3 vistas separadas en las que se vea en cada vista lo siguiente:
@@ -18,6 +18,8 @@ Requisitos:
 
 Aca te dejamos un ejemplo como base para poder guiarte: 
 
-- https://us-central1-harambe-functions.cloudfunctions.net/auth/google : autenticación.
-- https://us-central1-harambe-functions.cloudfunctions.net/auth/ : retorna un json con el usuario actual 
-- https://us-central1-harambe-functions.cloudfunctions.net/auth/logout : terminar la sesión
+<p align="center">
+  <img width="600" height="300" src="https://drive.google.com/file/d/1rid7De0dD7kGqtFuPlyAsDi5DBUxdQrt/view?usp=sharing
+">
+</p>
+
