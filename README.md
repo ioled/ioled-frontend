@@ -19,6 +19,6 @@ Requisitos:
 Aca te dejamos un ejemplo como base para poder guiarte: 
 
 <p align="center">
-  <img width="600" height="300" src="https://storage.cloud.google.com/ioled-test/Screen%20Shot%202019-12-13%20at%2017.12.31.png?authuser=2">
+  <img width="600" height="300" src="https://storage.googleapis.com/ioled-test/Screen%20Shot%202019-12-13%20at%2017.12.31.png">
 </p>
 
