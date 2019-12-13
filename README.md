@@ -19,7 +19,6 @@ Requisitos:
 Aca te dejamos un ejemplo como base para poder guiarte: 
 
 <p align="center">
-  <img width="600" height="300" src="https://drive.google.com/file/d/1rid7De0dD7kGqtFuPlyAsDi5DBUxdQrt/view?usp=sharing
-">
+  <img width="600" height="300" src="https://drive.google.com/file/d/1rid7De0dD7kGqtFuPlyAsDi5DBUxdQrt/view?usp=sharing">
 </p>
 
